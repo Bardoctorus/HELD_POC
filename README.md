@@ -1,3 +1,11 @@
+
+# Just don't even bother this is a mess and it doesn't work
+
+
+I don't know if the little round display is broken, I don't understand the way the ch32 does SPI, my attempt to get AI to compare what I did to working arduino code was foolish, or all of the above. This whole repository probably needs to go the way of the project. Away, to be reborn as something that isn't 9 hours of no progress. aaaaaah
+
+
+
 How to build PlatformIO based project
 =====================================
 
